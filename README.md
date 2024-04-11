@@ -1,1 +1,1 @@
-# JAVASCRIPTS_codes
+# JavaScript_codes
